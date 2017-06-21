@@ -1,2 +1,3 @@
 This is the training from git!
 Inserting a new line.
+Inserting another line.
